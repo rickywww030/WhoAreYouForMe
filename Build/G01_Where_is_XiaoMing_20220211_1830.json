@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project_WebGame_20220208_1301",
+"productVersion": "0.1",
+"dataUrl": "G01_Where_is_XiaoMing_20220211_1830.data.unityweb",
+"wasmCodeUrl": "G01_Where_is_XiaoMing_20220211_1830.wasm.code.unityweb",
+"wasmFrameworkUrl": "G01_Where_is_XiaoMing_20220211_1830.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
