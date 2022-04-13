@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project_WebGame_20220208_1301",
+"productVersion": "0.1",
+"dataUrl": "G02_Who_are_you_for_me_20220413_1549.data.unityweb",
+"wasmCodeUrl": "G02_Who_are_you_for_me_20220413_1549.wasm.code.unityweb",
+"wasmFrameworkUrl": "G02_Who_are_you_for_me_20220413_1549.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
